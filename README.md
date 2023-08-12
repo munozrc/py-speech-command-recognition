@@ -1,2 +1,2 @@
-# py-speech-command-recognition
+# Speech Command Recognition
 Recognizing keywords
