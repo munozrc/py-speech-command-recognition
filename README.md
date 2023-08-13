@@ -1,7 +1,9 @@
 # Speech Command Recognition
 
 Recognizing keywords using DeepLearning
-[https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html)
+
+- [Command audio](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html)
+- [MiniCommand audio](http://storage.googleapis.com/download.tensorflow.org/data/mini_speech_commands.zip)
 
 How use `venv` command:
 
