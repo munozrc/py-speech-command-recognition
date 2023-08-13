@@ -51,5 +51,6 @@ class CommandsSpottingService:
 
 if __name__ == "__main__":
     service = CommandsSpottingService(model_path="model.h5")
-    command = service.predict("audios/no/1b4c9b89_nohash_3.wav")
-    print(command)
+    print(service.predict("audios/no/1b4c9b89_nohash_3.wav"))
+    print(service.predict("audios/stop/0fa1e7a9_nohash_1.wav"))
+    print(service.predict("audios/left/1cbcc7a7_nohash_1.wav"))
