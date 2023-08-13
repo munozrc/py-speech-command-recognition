@@ -5,6 +5,7 @@ __pycache__/
 
 # Audios for testing
 audios/
+dataset.json
 
 # C extensions
 *.so
