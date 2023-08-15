@@ -1,7 +1,5 @@
 from flask import Flask, request, jsonify
 from commands_spotting_service import CommandsSpottingService
-import random
-import os
 
 app = Flask(__name__)
 
